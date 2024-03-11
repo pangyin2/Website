@@ -1,0 +1,9 @@
+---
+title: "YingqiWebsite"
+---
+Hello, my name is Pang Yingqi. I am a 4th year student at the University of Toronto, majoring in Economics with minors in Statistics, History, and Philosophy of Science. I did lots of internships like HotelDoggy and Deloitte in my university time. My favorite color is pink. I like singing and swimming.
+Also, my favorite equation is:
+```{r}
+1 + 1
+```
+[My CV](yingqiCV.pdf)
