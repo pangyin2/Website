@@ -1,0 +1,64 @@
+---
+title: "Resume"
+format: pdf
+---
+# Pang Yingqi
+
+- **Email:** yingqi.pang@mail.utoronto.ca
+- **Location:** Toronto, Canada
+- **Phone:** +1 437-299-4980
+
+## Education
+
+- **University of Toronto, St. George Campus**
+    - Bachelor of Arts in Economics
+    - Minors in Statistics, History and Philosophy of Science
+    - Average GPA: 3.27/4.0
+    - Graduation: 2024
+    - **Skills:** Python; Java; R; Microsoft Office; Excel; PowerPoint
+    - **Languages:** English (Fluent); Mandarin (Native)
+
+## Professional Experience
+
+### Hotel Doggy, Toronto, Canada
+**Brand Coordinator**  
+_May 2023 – August 2023_
+- Spearheaded market research...
+- Crafted and executed digital marketing initiatives...
+- Managed sales data with Excel...
+
+### Deloitte, Shanghai, China
+**Tax and Business Advisory Intern**  
+_June 2022 – August 2022_
+- Member of the tax consultancy team...
+- Maintained accounting records...
+
+### Founder Securities, Ningbo, China
+**Marketing Analytics Intern**  
+_June 2021 – August 2021_
+- Researched stock market trends...
+- Enhanced customer relations...
+
+### Dos Law Firm, Ningbo, China
+**Financial Services Intern**  
+_April 2021 – June 2021_
+- Participated in financial due diligence...
+- Facilitated project interviews...
+
+## Extra-Curricular Activities
+
+### Christian Yongen Elderly Home Volunteer, Ningbo, China
+_June 2020 – August 2020_
+- Regularly volunteered at the elderly home...
+- Organized various recreational activities...
+
+### Campus News Club, Qibao Dwight High School, Shanghai, China
+_January 2018 – May 2020_
+- Participated in fundraising...
+- Coordinated a diverse team...
+
+## Academic Achievements
+
+- Dean’s List Scholar, University of Toronto in the Faculty of Arts & Science for the 2020-21 fall/winter
+
+[My CV](yingqiCV.pdf)
